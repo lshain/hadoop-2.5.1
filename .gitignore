@@ -1,0 +1,8 @@
+*~
+*.*~
+logs/
+dfs/
+tmp/
+test/
+zookeeper.out
+
